@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GameProd2_2025/Intermediate/CachedAssetRegistry_0.bin
+/GameProd2_2025/Saved/Config/CrashReportClient
+/GameProd2_2025/Saved/Config/WindowsEditor
