@@ -241,9 +241,7 @@ Backup/*
 
 ## Videos (except Bink!)
 *.webm
-*.mp4
 *.wmv
-!videos/**/*.mp4
 
 # Useless open order logs
 CookerOpenOrder.log
