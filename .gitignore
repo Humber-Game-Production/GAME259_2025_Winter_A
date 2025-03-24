@@ -241,7 +241,6 @@ Backup/*
 
 ## Videos (except Bink!)
 *.webm
-*.mp4
 *.wmv
 
 # Useless open order logs
